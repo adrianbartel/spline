@@ -1,3 +1,6 @@
+# this program draws a NURBS with random control points that you can just 
+# look at and enjoy
+
 import matplotlib.pyplot as plt
 import random
 import math

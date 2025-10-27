@@ -1,3 +1,5 @@
+# this script just writes some interpolated points to a CSV file
+
 import csv
 
 def b_spline_interpolate(control_points, points_per_segment=100):

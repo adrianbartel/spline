@@ -1,3 +1,6 @@
+# An interactive matplotlib drawing a B-spline or Catmull-Rom spline
+# where you can move the control points around
+
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider, RadioButtons
 import random
